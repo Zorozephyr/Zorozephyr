@@ -19,11 +19,17 @@ I'm a passionate software engineer who loves building data-powered, intelligent 
 
 Building intelligent, stateful AI systems using LangGraph for advanced agent orchestration.
 
-#### **ChatWithMeAgent**
-A personalized conversational AI agent that maintains context about me and provides intelligent responses to questions about my background, experience, and projects. This agent demonstrates:
-- Context-aware conversation management
-- Stateful interaction handling
-- Intelligent information retrieval and response generation
+| Feature | Career Agent | Sidekick Assistant | Dataset Generator | Personal Knowledge Worker | RAG Insurance LLM |
+|---------|--------------|-------------------|-------------------|---------------------------|-------------------|
+| **Primary Use** | Career chatbot | Research & automation | Data generation | Knowledge base Q&A | Insurance knowledge Q&A |
+| **Interface** | Gradio web UI | Gradio web UI | CLI (Command-line) | Gradio web UI | Gradio web UI |
+| **Architecture** | Simple tool integration | Multi-agent with evaluator | Iterative with validation | RAG with image processing | RAG with vector store |
+| **Key Capability** | Answer questions + record leads | Browse web, execute code, plan trips | Generate synthetic datasets | Index personal knowledge + chat | Query insurance documents |
+| **User Input** | Natural language chat | Natural language chat | Structured prompts | Natural language chat | Natural language chat |
+| **Output** | Conversational responses | Task completion + artifacts | JSON datasets (50 records) | Chat responses with context | Answers from knowledge base |
+| **Knowledge Source** | LinkedIn PDF | Web/Wikipedia/Code | Generated | MHT files + images | Markdown documents |
+| **Feedback Loop** | None | Evaluator retries | Quality-based regeneration | Conversation memory | Conversation memory |
+| **Deployment** | HuggingFace Spaces | Cloud/Docker | Local/Scheduled script | Local/Docker | Local/Docker |
 
 [View Repository →](https://github.com/Zorozephyr/LanggraphProjects)
 
