@@ -15,9 +15,10 @@ I'm a passionate software engineer who loves building data-powered, intelligent 
 
 ## 🚀 Featured Projects
 
-### 🤖 LangGraph AI Agents
+<details>
+<summary><b>🤖 LangGraph AI Agents</b> - Building intelligent, stateful AI systems using LangGraph for advanced agent orchestration</summary>
 
-Building intelligent, stateful AI systems using LangGraph for advanced agent orchestration.
+<br>
 
 | Feature | Career Agent | Sidekick Assistant | Dataset Generator | Personal Knowledge Worker | RAG Insurance LLM |
 |---------|--------------|-------------------|-------------------|---------------------------|-------------------|
@@ -33,9 +34,12 @@ Building intelligent, stateful AI systems using LangGraph for advanced agent orc
 
 [View Repository →](https://github.com/Zorozephyr/LanggraphProjects)
 
----
+</details>
 
-### 📰 NewsApp - Microservices Platform
+<details>
+<summary><b>📰 NewsApp - Microservices Platform</b> - Comprehensive news aggregator and personalization platform</summary>
+
+<br>
 
 A comprehensive microservices-based news aggregator and personalization platform that delivers intelligent content curation at scale.
 
@@ -61,21 +65,29 @@ A comprehensive microservices-based news aggregator and personalization platform
 
 [View Repository →](https://github.com/Zorozephyr/NewsApp)
 
----
+</details>
 
-### 🏗️ Other Notable Projects
+<details>
+<summary><b>🏗️ Other Notable Projects</b> - Design patterns, microservices, and networking knowledge</summary>
+
+<br>
 
 #### **Design Patterns & Low-Level Design**
 Comprehensive implementation of software design patterns and low-level design principles in Java. Perfect reference for system design interviews and architectural decisions.
+
 [View Repository →](https://github.com/Zorozephyr/DesignPattern-LLD)
 
 #### **Spring Boot Microservices**
 Production-ready microservices architecture implementing Docker containerization and Kubernetes orchestration for scalable deployment.
+
 [View Repository →](https://github.com/Zorozephyr/Microservice_Project)
 
 #### **Networks & Telecom Notes**
 Curated collection of notes and insights on networking protocols, telecommunications infrastructure, and industry best practices.
+
 [View Repository →](https://github.com/Zorozephyr/NetworksAndTelcoNotes)
+
+</details>
 
 ---
 
