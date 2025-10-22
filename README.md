@@ -9,31 +9,67 @@
 
 ## 💫 About Me
 
-I'm a passionate software engineer who loves building data-powered, intelligent applications that deliver real value. I specialize in designing scalable architectures, implementing sophisticated algorithms, and transforming complex problems into elegant solutions.
+I'm a passionate software engineer who loves building data-powered, intelligent applications that deliver real value. I specialize in designing scalable architectures, implementing sophisticated algorithms, and transforming complex problems into elegant solutions. My work spans from AI-powered agentic systems to large-scale microservices platforms.
 
-### 🔭 Current Focus: NewsApp
+---
 
-I'm building **NewsApp** — a comprehensive microservices-based news aggregator and personalization platform. Here's what makes it special:
+## 🚀 Featured Projects
+
+### 🤖 LangGraph AI Agents
+
+Building intelligent, stateful AI systems using LangGraph for advanced agent orchestration.
+
+#### **ChatWithMeAgent**
+A personalized conversational AI agent that maintains context about me and provides intelligent responses to questions about my background, experience, and projects. This agent demonstrates:
+- Context-aware conversation management
+- Stateful interaction handling
+- Intelligent information retrieval and response generation
+
+[View Repository →](https://github.com/Zorozephyr/LanggraphProjects)
+
+---
+
+### 📰 NewsApp - Microservices Platform
+
+A comprehensive microservices-based news aggregator and personalization platform that delivers intelligent content curation at scale.
 
 #### 🎯 **Personalization Engine**
 - Multi-factor recommendation system analyzing user interests, temporal preferences, and interaction patterns
 - Real-time content adaptation based on user behavior
-- [View Repository →](https://github.com/Zorozephyr/newsapp-personalization)
+- Machine learning-powered content matching
 
 #### 📈 **Trending & Popularity Detection**
 - Advanced virality tracking and engagement metrics
 - Temporal pattern analysis to surface relevant content
-- [View Repository →](https://github.com/Zorozephyr/newsapp-trending)
+- Real-time trend identification algorithms
 
 #### 🤖 **AI-Powered Summarization**
 - Automated article summarization for faster content consumption
 - Natural language processing for key insight extraction
-- [View Repository →](https://github.com/Zorozephyr/newsapp-summarization)
+- Multi-language summarization support
 
-#### 🏗️ **Microservices Architecture**
-- Modular, scalable, and maintainable system design
+#### 🏗️ **Scalable Architecture**
+- Modular microservices design for flexibility and maintainability
 - Event-driven communication using Kafka and RabbitMQ
-- [Main Repository →](https://github.com/Zorozephyr/newsapp)
+- Containerized deployment with Docker and Kubernetes
+
+[View Repository →](https://github.com/Zorozephyr/NewsApp)
+
+---
+
+### 🏗️ Other Notable Projects
+
+#### **Design Patterns & Low-Level Design**
+Comprehensive implementation of software design patterns and low-level design principles in Java. Perfect reference for system design interviews and architectural decisions.
+[View Repository →](https://github.com/Zorozephyr/DesignPattern-LLD)
+
+#### **Spring Boot Microservices**
+Production-ready microservices architecture implementing Docker containerization and Kubernetes orchestration for scalable deployment.
+[View Repository →](https://github.com/Zorozephyr/Microservice_Project)
+
+#### **Networks & Telecom Notes**
+Curated collection of notes and insights on networking protocols, telecommunications infrastructure, and industry best practices.
+[View Repository →](https://github.com/Zorozephyr/NetworksAndTelcoNotes)
 
 ---
 
@@ -47,6 +83,10 @@ I'm building **NewsApp** — a comprehensive microservices-based news aggregator
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -81,20 +121,6 @@ I'm building **NewsApp** — a comprehensive microservices-based news aggregator
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zorozephyr&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Zorozephyr&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorozephyr&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
-</div>
 
 ---
 
