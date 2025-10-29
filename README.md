@@ -68,7 +68,7 @@ A comprehensive microservices-based news aggregator and personalization platform
 </details>
 
 <details>
-<summary><b>🏗️ Other Notable Projects</b> - Design patterns, microservices, and networking knowledge</summary>
+<summary><b>🏗️ Other Notable Projects</b> - Design patterns, microservices, and enterprise systems</summary>
 
 <br>
 
@@ -82,10 +82,10 @@ Production-ready microservices architecture implementing Docker containerization
 
 [View Repository →](https://github.com/Zorozephyr/Microservice_Project)
 
-#### **Networks & Telecom Notes**
-Curated collection of notes and insights on networking protocols, telecommunications infrastructure, and industry best practices.
+#### **Employee Management System (EMS)**
+Enterprise-grade HR management platform that streamlines employee record management, automates salary processes, and provides comprehensive analytics. Features include advanced search with hundreds of parameters, bulk Excel upload capabilities, automated salary incrementation, and detailed employee profiles with salary history tracking. Built with a focus on productivity enhancement and user-friendly interfaces.
 
-[View Repository →](https://github.com/Zorozephyr/NetworksAndTelcoNotes)
+[View Repository →](https://github.com/rubenskx/EMS)
 
 </details>
 
